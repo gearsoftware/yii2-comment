@@ -1,0 +1,20 @@
+{
+  "name": "gearsoftware/yii2-comment",
+  "description": "Comments Module For Yii2",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "José Peña",
+      "email": "joepa37@gmail.com"
+    }
+  ],
+  "require": {
+    "gearsoftware/yii2-core": "@dev",
+    "gearsoftware/yii2-comments": "@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "gearsoftware\\comment\\": "src"
+    }
+  }
+}
