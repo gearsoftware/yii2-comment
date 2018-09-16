@@ -13,7 +13,6 @@ namespace gearsoftware\comment;
 
 /**
  * Comments Module For Yii2
- * Also here
  *
  * @author José Peña <joepa37@gmail.com>
  */
